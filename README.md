@@ -6,12 +6,12 @@ Welcome to my data analysis repository! This repository contains Python-based da
 
 ## 📂 Projects Included
 
-### 1. 🚗 Automotive Data Analysis (`automotive_data_analysis.ipynb`)
+### 1. 🏎️ [Automotive Data Analysis](automotive_data_analysis.ipynb)
 - **Objective:** Analyze vehicle performance, fuel economy, and key automotive specifications.
 - **Tools Used:** Python, Pandas, Matplotlib / Seaborn.
 - **Key Tasks:** Data cleaning, handling missing values, and visualizing trends in automotive metrics.
 
-### 2. 📊 Daily Revenue Analysis (`daily_revenue_analysis`)
+### 2. 📊 [Daily Revenue Analysis](daily_revenue_analysis)
 - **Objective:** Track and analyze daily business performance and financial revenue streams.
 - **Tools Used:** Python, Data Visualization libraries.
 - **Key Tasks:** Identifying peak sales periods and revenue trends to support data-driven business decisions.
